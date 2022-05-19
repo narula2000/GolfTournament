@@ -1,0 +1,6 @@
+[submodule "GolfTournament-Mobileapp"]
+	path = GolfTournament-Mobileapp
+	url = git@github.com:narula2000/GolfTournament-Mobileapp.git
+[submodule "GolfTournament-Webapp"]
+	path = GolfTournament-Webapp
+	url = git@github.com:narula2000/GolfTournament-Webapp.git
